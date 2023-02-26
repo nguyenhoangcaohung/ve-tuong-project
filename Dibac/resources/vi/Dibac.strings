@@ -1,0 +1,118 @@
+﻿// Copyright 2012 Dibac
+// Dibac script string file
+"Language"="Language";
+"Options"="Options";
+"Select language"="Chọn ngôn ngữ";
+"en"="English";
+"es"="Spanish";
+"de"="German";
+"cn"="Chinese";
+"fr"="French";
+"pt"="Portuguese";
+"ar"="Arabic";
+"ja"="Japanese";
+"ru"="Russian";
+"it"="Italian";
+"vi"="Tieng viet";
+"Dibac for Sketchup"="Dibac for Sketchup";
+"User"="User";
+"User License"="User License";
+"Dibac License"="Giấy phép Dibac ";
+"License Information"="License Information";
+"Authorize"="Authorize";
+"Unauthorize"="Unauthorize";
+"You are about to remove the authorization to use"="You are about to remove the authorization to use";
+"You can not run again if the product does not authorize a valid license."="You can not run again if the product does not authorize a valid license.";
+"Are you sure you want to continue?"="Are you sure you want to continue?";
+"Valid License"="Valid License";
+"Invalid License"="Invalid License";
+"E_mail"="E_mail";
+"Serial number"="Serial number";
+"Authorization number"="Authorization number";
+"Length"="Chiều dài";
+"Plugin for architectural drawing."="Plugin for architectural drawing.";
+"Sorry. Your promotional license has expired."="Sorry. Your promotional license has expired.";
+"Please contact your dealer."="Please contact your dealer.";
+"Promotional license valid until"="Promotional license valid until";
+//Class Borrar
+"Select items to erase or drag across multiple items.";
+"Hide"="Hide";
+"Soften/Smoth"="Soften/Smoth";
+"Soften edges"="Soften edges";
+"Erase"="Erase";
+//Class Muro/Murop
+"Wall"="Tường";
+"Draw walls from point to point."="Draw walls from point to point.";
+"Draw walls parallel to a edge."="Draw walls parallel to a edge.";
+"Extend / shorten walls."="Extend / shorten walls.";
+"Thickness"="Độ dày";
+"Starting point"=" Bước 1: Chọn điểm bắt đầu;
+"End point"=" Bước 2: Chọn điểm kết thúc hoặc nhập kích thước+ Enter";
+"or specify thickness preceded by"="CHÚ Ý: Chọn lại độ dày trong lúc vẽ bằng cách bấm - Độ dày Rồi Enter";
+"Change edge"="Đổi gióng cạnh (Left, Center, Right) ";
+"Paralell wall"="Độ dày tường";
+"Baseline"=" Bước 1: Chọn cạnh tường muốn offset";
+"Position of wall"="Bước 2: Chọn điểm kết thúc hoặc nhập kích thước + Enter";
+"Extend wall"="Chỉnh sửa tường";
+"Enter end to extend"="Chọn tường muốn sửa";
+"Enter new position"="Chọn vị trí mới";
+//Class Carpinteria
+"Align"="Gióng";
+"Internal"="Trong";
+"Center"="Giua";
+"External"="Ngoài";
+"Force"="Cách tường";
+"YES"="Có";
+"NOT"="Không";
+"Select a wall, new values, or distance preceded by"="Chọn tường muốn đặt cửa | Chú ý: đổi độ rộng cửa bằng cách  - gia tri rồi Enter";
+"Center/End"="Center/End";
+//Class Puerta
+"Place doors in walls."="Place doors in walls.";
+"Door"="Cửa đi";
+"Slab"="Độ lớn cửa";
+"Lintel"="Chiều cao cửa";
+"Place door"="Place door";
+//Class Ventana
+"Window"="Cửa sổ";
+"Place windows in walls."="Place windows in walls.";
+"Height"="Chiều cao";
+"Sashes"="Độ rộng cánh";
+"Sill"="Các sàn";
+"Place window"="Place window";
+"values or distance"="values or distance";
+"Cen./End"="Cen./End";
+"End"="End";
+"Shitf"="Shift";
+"Max."="Max.";
+//Class Armario
+"Cabinet"="Cửa tủ nội thất";
+"Place cabinets in walls."="Place cabinets in walls.";
+"Threshold"="Cách sàn";
+"Fill"="Phủ kín tường";
+"Place cabinet"="Place cabinet";
+"Enter a wall, or new dimension for doors"="Chọn tường, Hoặc nhập kích thước mới";
+"Max. length"="Max. length";
+//Class Escalera
+"Stair"="Bậc thang";
+"Draw stairs from point to point or by path."="Draw stairs from point to point or by path.";
+"Width"="Chiều rộng";
+"Path"="Path";
+"Dbl_Click for Path"="Hoặc Dbl_Click để vẽ path";
+"or specify width preceded by"="hoặc có chọn lại độ rộng bậc bằng cách:";
+"Going"="Độ rộng bậc";
+"Rise"="Độ cao bậc";
+"Slope"="Slope (G+2R)";
+//Class CotaContinua
+"Continuous dimension"="Continuous dimension";
+"Continuous interior dimensions between two points."="Continuous interior dimensions between two points.";
+"min."="min.";
+"Enter start point, or minimun value"="Enter start point, or minimun value";
+"Enter end point, or minimun value"="Enter end point, or minimun value";
+"Specify dimension line position"="Specify dimension line position";
+"Minimun dimension"="Minimun dimension";
+//Class Imprimedibac
+"Print Dibac"="Print Dibac";
+//Class TresDimensiones
+"Convert to 3D"="Chuyển tất cả thành 3D";
+"Transforms the 2D model into a 3D model with height defined."="Transforms the 2D model into a 3D model with height defined.";
+"Create group"="Tạo group";

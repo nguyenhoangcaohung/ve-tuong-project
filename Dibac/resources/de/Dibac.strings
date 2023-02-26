@@ -1,0 +1,117 @@
+﻿// Copyright 2012 Dibac
+// Dibac script string file
+"Language"="Sprache";
+"Options"="Optionen";
+"Select language"="Auswahl der Sprache";
+"en"="Englisch";
+"es"="Spanisch";
+"de"="Deutsch";
+"cn"="Chinesisch";
+"fr"="Französisch";
+"pt"="Portugiesisch";
+"ar"="Arabisch";
+"ja"="Japanisch";
+"ru"="Russisch";
+"it"="Italienisch";
+"Dibac for Sketchup"="Dibac für Sketchup";
+"User"="User";
+"User License"="Zulassungsvertrag";
+"Dibac License"="Dibaczulassung";
+"License Information"="Zulassungsinformation";
+"Authorize"="Zulassen";
+"Unauthorize"="nicht zugelassen";
+"You are about to remove the authorization to use"="Sie sind kurz vor der Löschung der Zulassung";
+"You can not run again if the product does not authorize a valid license."="Die Weiterbenutzung ohne Zulassung ist nicht möglich";
+"Are you sure you want to continue?"="¿Sind sie sicher weitrzufahren?";
+"Valid License"="Gültige Zulassung";
+"Invalid License"="ungültige Zulassung";
+"E_mail"="E-mail";
+"Serial number"="Seriennummer";
+"Authorization number"="Zullasungsnummer";
+"Length"="Länge";
+"Plugin for architectural drawing."="Plugin für Architekturzeichnung.";
+"Sorry. Your promotional license has expired."="Die Einführungszulassung ist ausgelaufen.";
+"Please contact your dealer."="Verbinden sie sich mit unserem Verträter.";
+"Promotional license valid until"="Die Einführungszulassung ist gültig bis";
+//Class Borrar
+"Select items to erase or drag across multiple items."="Objekte aktivieren zur Entfernung oder sie durch verschiedene Elemente ziehen";
+"Hide"="Ausblenden";
+"Soften/Smoth"="mildern/abflachen";
+"Soften edges"="Kanten mildern";
+"Erase"="Entfernen";
+//Class Muro/Murop 
+"Draw walls from point to point."="Zeichne die Mauer von Punkt zu Punkt.";
+"Draw walls parallel to a edge."="Zeichne Mauern paralel zu einer Kante.";
+"Extend / shorten walls."="Mauern kürzen/ verlängern.";
+"Wall"="Mauer";
+"Thickness"="Stärke";
+"Starting point"="Startpunkt";
+"End point"="Endpunkt";
+"or specify thickness preceded by"="oder Stärke angeben vorgegeben von";
+"Change edge"="Verändere Kante";
+"Paralell wall"="Muro paralelo";
+"Baseline"="Basis";
+"Position of wall"="Mauerstandort";
+"Extend wall"="Mauerverlängern";
+"Enter end to extend"="Geben sie den zuverlängerden Punkt an";
+"Enter new position"="Geben sie neuen Punkt an";
+//Class Carpinteria
+"Align"="Baulinie";
+"Internal"="Innen";
+"Center"="Mittelpunkt";
+"External"="Aussen";
+"Force"="Zwingen";
+"YES"="Ja";
+"NOT"="Nein";
+"Select a wall, new values, or distance preceded by"="Aktivieren sie eine Mauer, neue Werte, oder Messung vorgegeben von";
+"Center/End"="Mittelpunkt/Ende";
+//Class Puerta
+"Place doors in walls."="Türen in der Mauer positionieren.";
+"Door"="Türe";
+"Slab"="Flügel";
+"Lintel"="Sturz";
+"Place door"="Türe positionieren";
+//Class Ventana
+"Window"="Fenster";
+"Place windows in walls."="Fenster in der Mauer positionieren.";
+"Height"="Höhe";
+"Sashes"="Flügel";
+"Sill"="Fensterbank";
+"Place window"="Fenster positionieren";
+"values or distance"="Werte oder Messung";
+"Cen./End"="Mittelpunkt/Ende"";
+"End"="Ende";
+"Shitf"="Shift.";
+"Max."="Max.";
+//Class Armario
+"Cabinet"="Wanschrank";
+"Place cabinets in walls."="Wandschränke in der Mauer positionieren.";
+"Threshold"="Schwelle";
+"Fill"="Max.Länge";
+"Place cabinet"="Wandschränke positionieren";
+"Enter a wall, or new dimension for doors"="Geben sie Mauer, oder neue länge der Flügel an";
+"Max. length"="máx.Länge";
+//Class Escalera
+"Stair"="Treppe";
+"Draw stairs from point to point or by path."="Zeichne Treppe von Punkt zu Punkt oder ihren Lauf";
+"Width"="Breite";
+"Path"="Lauf";
+"Dbl_Click for Path"="Dbl_Click für Verlauf";
+"or specify width preceded by"="oder Breite angeben vorgegeben von";
+"Going"="Treppenstufe";
+"Rise"="Treppenstufenhöhe";
+"Slope"="Steigung (H+2T)";
+//Class CotaContinua
+"Continuous dimension"="Durchgehende Masszahl";
+"Continuous interior dimensions between two points."="Durchgehende innenmasszahlzwischen zwei Punkten.";
+"min."="min.";
+"Enter start point, or minimun value"="Ausgangspunkt eingeben oder den minimal Wert";
+"Enter end point, or minimun value"="Endpunkt eingeben oder den minimal Wert";Höhe
+"Specify dimension line position"="Positionieren Sie die Masslinie";
+"Minimun dimension"="Minimalmass";
+//Class Imprimedibac
+"Print Dibac"="Dibac drucken";
+//Class TresDimensiones
+"Convert to 3D"="Umfunctionieren auf 3D";
+"Transforms the 2D model into a 3D model with height defined."="Functionieren das 2D element in ein en 3D Element mit einer definierten Höhe.";
+"Create group"="Gruppe bilden"; 

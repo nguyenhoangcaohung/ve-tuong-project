@@ -1,0 +1,117 @@
+﻿// Copyright 2012 Dibac
+// Dibac script string file
+"Language"="语";
+"Options"="选项";
+"Select language"="选择语言";
+"en"="英语";
+"es"="西班牙人";
+"de"="德国人";
+"cn"="中国的";
+"fr"="法国人";
+"pt"="葡萄牙";
+"ar"="阿拉伯语";
+"ja"="日本";
+"ru"="俄";
+"it"="意大利的";
+"Dibac for Sketchup"="Dibac的SketchUp";
+"User"="用户";
+"User License"="用户许可";
+"Dibac License"="Dibac许可证";
+"License Information"="许可信息";
+"Authorize"="授权";
+"Unauthorize"="取消授权";
+"You are about to remove the authorization to use"="您删除授权使用的";
+"You can not run again if the product does not authorize a valid license."="你不能再次运行，如果该产品不授权的有效许可证。";
+"Are you sure you want to continue?"="您确定要继续吗？";
+"Valid License"="有效许可证";
+"Invalid License"="无效许可";
+"E_mail"="邮箱";
+"Serial number"="流水号";
+"Authorization number"="授权号";
+"Length"="长度";
+"Plugin for architectural drawing."="插件的建筑图纸。";
+"Sorry. Your promotional license has expired."="对不起，你的推广许可证已过期。";
+"Please contact your dealer."="请与经销商联系。";
+"Promotional license valid until"="促销许可证有效期至";
+//Class Borrar
+"Select items to erase or drag across multiple items."="请选择要删除的项目或者多个项目。";
+"Hide"="隐藏";
+"Soften/Smoth"="柔化/光滑";
+"Soften edges"="柔化边缘";
+"Erase"="删除";
+"Dibac"="Dibac组合键";
+//Class Muro/Murop
+"Draw walls from point to point."="绘制墙壁点对点。";
+"Draw walls parallel to a edge."="绘制墙平行的边缘。";
+"Extend / shorten walls."="延长/缩短墙壁。";
+"Wall"="墙体";
+"Thickness"="墙厚";
+"Starting point"="起点";
+"End point"="终点";
+"or specify thickness preceded by"="或者指定厚度";
+"Change edge"="更改边缘";
+"Paralell wall"="并联墙";
+"Baseline"="基准线";
+"Position of wall"="定位墙";
+"Extend wall"="延伸墙体";
+"Enter end to extend"="输入延伸";
+"Enter new position"="输入新的位置";
+//Class Carpinteria
+"Align"="对齐";
+"Internal"="插入";
+"Center"="中心";
+"External"="外部";
+"Force"="强制";
+"YES"="是";
+"NOT"="否";
+"Select a wall, new values, or distance preceded by"="选择一面墙，或在距离前面加上新值";
+"Center/End"="中心点/终点";
+//Class Puerta
+"Place doors in walls."="将门墙。";
+"Door"="门";
+"Slab"="门板";
+"Lintel"="门楣";
+"Place door"="放置门";
+//Class Ventana
+"Window"="窗";
+"Place windows in walls."="放置在墙壁的窗口。";
+"Height"="窗楣";
+"Sashes"="窗档";
+"Sill"="窗腰";
+"Place window"="放置窗";
+"values or distance"="输入距离值";
+"Cen./End"="中心点/终点";
+"End"="终点";
+"Shitf"="Shift键";
+"Max."="最大值";
+//Class Armario
+"Cabinet"="柜体";
+"Place cabinets in walls."="放置在墙壁柜。";
+"Threshold"="阀值";
+"Fill"="填充";
+"Place cabinet"="放置柜体";
+"Enter a wall, or new dimension for doors"="确定一面墙，或者输入门的尺寸";
+"Max. length"="最大值.长度";
+//Class Escalera
+"Stair"="楼梯";
+"Draw stairs from point to point or by path."="从点对点或通过路径的绘制楼梯。";
+"Width"="宽度";
+"Path"="路径";
+"Dbl_Click for Path"="双击确定路径";
+"or specify width preceded by"="或指定宽度前面";
+"Going"="起跑方向";
+"Rise"="踏步";
+"Slope"="斜度 (G+2R)";
+//Class CotaContinua
+"Continuous dimension"="连续尺寸";
+"min."="最小值.";
+"Enter start point, or minimun value"="输入起点，或者最小值";
+"Enter end point, or minimun value"="输入终点，或者最小值";
+"Specify dimension line position"="指定尺寸线位置";
+"Minimun dimension"="最小尺寸值";
+//Class Imprimedibac
+"Print Dibac"="打印Dibac";
+//Class TresDimensiones
+"Convert to 3D"="转换模型为三维";
+"Transforms the 2D model into a 3D model with height defined."="变换高度自定义的三维模型与二维模型。";
+"Create group"="建立群组"; 

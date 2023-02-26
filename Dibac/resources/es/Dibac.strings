@@ -1,0 +1,117 @@
+﻿// Copyright 2012 Dibac
+// Dibac script string file
+"Language"="Idioma";
+"Options"="Opciones";
+"Select language"="Selección de idioma";
+"en"="Inglés";
+"es"="Español";
+"de"="Alemán";
+"cn"="Chino";
+"fr"="Francés";
+"pt"="Portugués";
+"ar"="Árabe";
+"ja"="Japonés";
+"ru"="Ruso";
+"it"="Italiano";
+"Dibac for Sketchup"="Dibac para Sketchup";
+"User"="Usuario";
+"User License"="Licencia de usuario";
+"Dibac License"="Licencia Dibac";
+"License Information"="Información de licencia";
+"Authorize"="Autorizar";
+"Unauthorize"="Desautorizar";
+"You are about to remove the authorization to use"="Está a punto de eliminar la autorización de uso de";
+"You can not run again if the product does not authorize a valid license."="No podrá ejecutarlo de nuevo si no autoriza el producto con una licencia válida.";
+"Are you sure you want to continue?"="¿Seguro que quiere continuar?";
+"Valid License"="Licencia correcta";
+"Invalid License"="Licencia incorrecta";
+"E_mail"="Correo_e";
+"Serial number"="Número de serie";
+"Authorization number"="Número de autorización";
+"Length"="Longitud";
+"Plugin for architectural drawing."="Plugin para dibujar planos de Arquitectura.";
+"Sorry. Your promotional license has expired."="Su licencia promocional ha caducado.";
+"Please contact your dealer."="Pongase en contacto con su distribuidor.";
+"Promotional license valid until"="Licencia promocional válida hasta el";
+//Class Borrar
+"Select items to erase or drag across multiple items."="Selecciona objetos para eliminarlos o arrastra por diversos elementos.";
+"Hide"="Ocultar";
+"Soften/Smoth"="Suavizar/Alisar";
+"Soften edges"="Suavizar aristas";
+"Erase"="Borrar";
+//Class Muro/Murop 
+"Draw walls from point to point."="Dibuja muros de un punto a otro.";
+"Draw walls parallel to a edge."="Crea muros paralelos a una arista.";
+"Extend / shorten walls."="Estira / acorta muros.";
+"Wall"="Muro";
+"Thickness"="Grueso";
+"Starting point"="Punto de inicio";
+"End point"="Punto final";
+"or specify thickness preceded by"="o indique espesor precedido de";
+"Change edge"="Cambia cara";
+"Paralell wall"="Muro paralelo";
+"Baseline"="Línea Base";
+"Position of wall"="Posición del muro";
+"Extend wall"="Prolongar muro";
+"Enter end to extend"="Indique extremo a prolongar";
+"Enter new position"="Indique nueva posición";
+//Class Carpinteria
+"Align"="Alineación";
+"Internal"="Interior";
+"Center"="Centro";
+"External"="Exterior";
+"Force"="Forzar";
+"YES"="SI";
+"NOT"="NO";
+"Select a wall, new values, or distance preceded by"="Indique particion, nuevos valores, o distancia precedida de";
+"Center/End"="Centro/Extremo";
+//Class Puerta
+"Place doors in walls."="Coloca puertas en muros.";
+"Door"="Puerta";
+"Slab"="Hoja";
+"Lintel"="Dintel";
+"Place door"="Colocar puerta";
+//Class Ventana
+"Window"="Ventana";
+"Place windows in walls."="Coloca ventanas en muros.";
+"Height"="Altura";
+"Sashes"="Hojas";
+"Sill"="Alfeizar";
+"Place window"="Colocar ventana";
+"values or distance"="valores o distancia";
+"Cen./End"="Cen./Ext.";
+"End"="Extremo";
+"Shitf"="Mayus.";
+"Max."="Max.";
+//Class Armario
+"Cabinet"="Armario";
+"Place cabinets in walls."="Coloca armarios en muros.";
+"Threshold"="Umbral";
+"Fill"="Long.Max.";
+"Place cabinet"="Colocar armario";
+"Enter a wall, or new dimension for doors"="Indique particion, o nueva dimension de hojas";
+"Max. length"="Long. máx.";
+//Class Escalera
+"Stair"="Escalera";
+"Draw stairs from point to point or by path."="Dibuja escaleras de un punto a otro o por recorrido.";
+"Width"="Ancho";
+"Path"="Recorrido";
+"Dbl_Click for Path"="Dbl_Click para Recorrido";
+"or specify width preceded by"="o indique ancho precedido de";
+"Going"="Huella";
+"Rise"="Tabica";
+"Slope"="Paso (H+2T)";
+//Class CotaContinua
+"Continuous dimension"="Cota continua";
+"Continuous interior dimensions between two points."="Cotas continuas interiores entre dos puntos.";
+"min."="min.";
+"Enter start point, or minimun value"="Indique primer punto, o valor mínimo";
+"Enter end point, or minimun value"="Indique punto final, o valor mínimo";
+"Specify dimension line position"="Indique la posición de la linea de cotas";
+"Minimun dimension"="Dimensión mínima";
+//Class Imprimedibac
+"Print Dibac"="Impresión Dibac";
+//Class TresDimensiones
+"Convert to 3D"="Convertir en 3D";
+"Transforms the 2D model into a 3D model with height defined."="Transforma el modelo 2D en un modelo 3D con la altura definida.";
+"Create group"="Crear grupo"; 
